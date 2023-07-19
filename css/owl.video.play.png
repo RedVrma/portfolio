@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head itemscope itemtype="http://schema.org/WebSite">
+
+    <title itemprop="name">404 - This Page Does Not Exist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="ClaPat Themes">
+    <meta charset="UTF-8" />
+   	<link itemprop="url" rel="canonical" href="../newave/index.html" />    
+    <link rel="icon" type="image/ico" href="../favicon.ico" />
+    <link href="../style.css" rel="stylesheet" />
+    <link href="font-awesome.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:500,600" rel="stylesheet">       
+   
+</head>
+    
+
+
+
+
+
+
+<body class="hidden">
+
+	<main>
+    
+    
+	<div class="cd-index cd-main-content">
+	
+	<!-- Page Content -->
+	<div id="page-content" class="" data-bgcolor="#f9f9f9" data-textcolor="#000">
+    	
+        <div class="bg-gradient"></div>
+        
+        <!-- Background Lines -->
+        <div class="bg-lines hidden">    
+            <div class="bg-line left"></div>        
+            <div class="bg-line center"></div>        
+            <div class="bg-line right"></div>    
+        </div>
+        <!--/Background Lines -->
+        
+        
+        <!-- Background Text -->
+        <div id="bg-text" class="error">    
+            404 
+        </div>
+        <!--/Background Test -->
+        
+        
+        <div class="page-overlay">
+            <div class="animate-box-bottom"></div>
+            <div class="animate-box-left"></div>
+        </div>
+    
+        <!-- Header -->
+        <header class="scroll-hide">
+            <div id="header-container">
+        
+            <!-- Logo -->
+            <div id="logo">
+                <a class="ajax-link" data-type="page-transition" href="../index.html">
+                    <img class="black-logo" src="../images/logo.png" alt="ClaPat Logo">
+                    <img class="white-logo" src="../images/logo-white.png" alt="ClaPat Logo">
+                </a>
+            </div>
+            <!--/Logo -->            
+            
+            <!-- Menu Burger -->
+            <div id="burger-wrapper">
+            	<div id="burger-circle"></div>
+                <div id="menu-burger">
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <!--/Menu Burger -->
+        
+            </div>
+        </header>
+        <!--/Header -->
+        
+        
+        <!-- Menu Overlay -->
+        <div id="menu-overlay">
+            
+            <div id="close-menu"></div>  
+            
+            <div class="outer">
+                <div class="inner">
+                    
+                    <nav>                    
+                        <ul class="main-menu">
+                            <li><a class="ajax-link menu-link" data-type="page-transition" href="../index.html"><span></span>Home</a></li>
+                            <li><a class="ajax-link menu-link" data-type="page-transition" href="../portfolio-wordpress-themes/index.html"><span></span>Themes</a></li>
+                            <li class="active"><a class="ajax-link menu-link" data-type="page-transition" href="../about/index.html"><span></span>About</a></li>
+                            <li><a class="ajax-link menu-link" data-type="page-transition" href="../contact/index.html"><span></span>Contact</a></li>
+                        </ul>                
+                    </nav>
+                    
+                    <div class="tf-profile">
+                    	<p class="title-has-line">View our profile on:</p>
+                        <a class="tf-portfolio link" target="_blank" href="https://themeforest.net/user/clapat/portfolio?ref=ClaPat"><span></span>ThemeForest</a>
+                    </div>          
+                    
+                </div>
+                
+                <div class="inner right">
+                	<div class="clapat-info" itemscope itemtype="http://schema.org/LocalBusiness">
+					    <div class="schema-menu">
+							<span itemprop="name">ClaPat</span>
+							<link itemprop="url" href="../index.html" />
+							<img itemprop="logo" src="https://clapat.com/images/logo.png" />
+							<img itemprop="image" src="https://clapat.com/images/logo.png" />
+							<span itemprop="description">Professional portfolio themes for creative people</span>
+							<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+								<span itemprop="ratingValue">4.7</span>Star Rating<span itemprop="reviewCount">1047</span> Reviews
+							</div>
+						</div>
+						<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+							<a href="mailto:clapatstudio@gmail.com" class="mail-clapat"><span itemprop="email">clapatstudio@gmail.com</span></a>
+						</div>
+                        <ul class="socials-text">
+                            <li><a itemprop="sameAs" href="https://www.facebook.com/clapat.ro" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a itemprop="sameAs" href="https://www.twitter.com/clapatdesign" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a itemprop="sameAs" href="https://www.dribbble.com/clapat" target="_blank"><i class="fa fa-dribbble"></i></a></li>
+                            <li><a itemprop="sameAs" href="https://www.behance.net/clapat" target="_blank"><i class="fa fa-behance"></i></a></li>
+                            <li><a itemprop="sameAs" href="https://www.pinterest.com/clapat" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                        </ul>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        
+        </div>
+        <!-- Menu Overlay -->
+        
+        
+        <!-- Main -->
+        <div id="main">
+        
+        	
+            <!-- Hero Section -->
+            <div id="hero">
+                <div id="hero-styles" class="parallax-onscroll opacity-onscroll">
+                    <div id="hero-caption">
+                        <div class="inner text-align-center">
+                            <hr>
+                            <h1 class="hero-subtitle hero-one">Oops, this isn’t good...</h1>
+                            <h2 class="hero-title hero-two">Look like you got lost</h2>
+                            <a href="../portfolio-wordpress-themes/index.html" class="clapat-button rounded ajax-link error-button" data-type="page-transition" ><span>View all Themes</span></a>        
+                        </div>
+                    </div>
+                </div>
+            </div>            
+            <div id="hero-height" class="hidden"></div>
+            
+        </div>
+        <!--/Main -->       
+        
+        
+        <!-- Footer -->
+        <footer class="after-slider visible">      	
+            
+	    	<a id="page-action-holder" class="ajax-link is-active is-visible" href="../portfolio-wordpress-themes/index.html" data-type="page-transition" data-tooltip="Back to Themes" data-placement="top">
+                <div id="backtoworks">                                                    
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 80 80" xml:space="preserve">
+                        <circle class="circle-action is-inner" cx="40" cy="40" r="36" />
+                        <circle class="circle-action is-outer" cx="40" cy="40" r="36" />
+                    </svg>
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                </div>                        	
+            </a>
+            
+            <div class="chat-on-page is-active is-visible" data-tooltip="Chat With Us" data-placement="top">
+                <div id="open-chat">                                                    
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 80 80" xml:space="preserve">
+                        <circle class="circle-action is-inner" cx="40" cy="40" r="36" />
+                        <circle class="circle-action is-outer" cx="40" cy="40" r="36" />
+                    </svg>
+                    <i class="fa fa-comment" aria-hidden="true"></i>
+                </div>
+            </div>
+        
+            <ul class="socials-text has-animation" data-delay="10">
+                <li><a href="https://www.facebook.com/clapat" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://www.twitter.com/clapatdesign" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.dribbble.com/clapat" target="_blank"><i class="fa fa-dribbble"></i></a></li>
+                <li><a href="https://www.behance.net/clapat" target="_blank"><i class="fa fa-behance"></i></a></li>
+                <li><a href="https://www.pinterest.com/clapat" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+            </ul>            
+            
+	    	<p class="copyright has-animation" data-delay="50">Copyright © 2022 <a href="../index.html">ClaPat Themes</a>. All right reserved.</p>            
+        
+        </footer>
+        <!--/Footer -->
+ 
+ 
+	</div>    
+	<!--/Page Content -->
+    
+    </div>
+</main>
+    
+    
+    <div class="cd-cover-layer"></div>
+    
+		
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/plugins.js"></script>
+    <script src="../js/scripts.js"></script>
+    <script src="https://gumroad.com/js/gumroad.js"></script>
+
+
+
+</body>
+
+</html>
